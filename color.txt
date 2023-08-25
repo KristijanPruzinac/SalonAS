@@ -1,0 +1,3 @@
+text / blue 242A3A
+main red E91B2D
+bg F5F5F5
